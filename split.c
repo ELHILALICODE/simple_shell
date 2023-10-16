@@ -7,6 +7,7 @@
  * @bool: type of swap
  * Return: swapped string
  */
+
 char *swap_char(char *input, int bool)
 {
 	int i;
