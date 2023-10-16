@@ -8,6 +8,7 @@
  *
  * Return: no return.
  */
+
 void _memcpy(void *newptr, const void *ptr, unsigned int size)
 {
 	char *char_ptr = (char *)ptr;
